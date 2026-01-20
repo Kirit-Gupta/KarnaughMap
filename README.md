@@ -3,6 +3,3 @@ This is my Karnaugh Map program. In the program you can input a Karnaugh Map wit
 
 To run the program you must have python installed as well as having all scripts.
 The program requires the following modules; Kivy, KivyMD and all other default Python libraries.
-
-
-This program is the property of Kirit Gupta.
